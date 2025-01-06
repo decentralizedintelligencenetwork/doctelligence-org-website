@@ -9,7 +9,7 @@ doctelligence.org is constantly evolving through the contributions of community 
 
 If you're interested in contributing, find out how to get involved and help improve [doctelligence.org](https://doctelligence.org).
 
-## Looking for the Doctelligence Network's Code?
+## Looking for the Doctelligence network's Code?
 
 If you're looking for the Doctelligence network itself, there isn't a single repository. Instead, Doctelligence has multiple protocol implementations written in different programming languages for security and diversity.
 
