@@ -1,4 +1,5 @@
-![Doctelligence Logo](https://doctelligence.github.io/images/logo/logo3.png) # Welcome to doctelligence.org!👋
+![Doctelligence Logo](https://doctelligence.github.io/images/logo/logo3.png) 
+# Welcome to doctelligence.org!👋
 
 This is the repository for the [doctelligence.org](https://doctelligence.org) website, a key resource for the Doctelligence community. The site's purpose is to **“Be the best portal to Doctelligence for our growing global community."**  
 [Read more about what this means here.](#)
